@@ -9,6 +9,9 @@ public class Arbol_RN <Llave extends Comparable<Llave>,Valor>{
     private Pila <Nodo> p ;
     private Cola<Nodo> c ;
 
+
+    //XD
+
     class Nodo{
         private Llave llave;
         private Valor valor;
