@@ -4,6 +4,7 @@ import PrograAvan.Lineal.Pila;
 public class Arbol_RN <Llave extends Comparable<Llave>,Valor>{
     private static final boolean ROJO=true;
     private static final boolean NEGRO=false;
+    //Arbolazo
     private Nodo raiz;
     private Pila <Nodo> p ;
     private Cola<Nodo> c ;

@@ -13,5 +13,6 @@ public class Principal {
         lista.profundidad();
         System.out.println("____________");
         lista.amplitud();
+        //aloja?
     }
 }
