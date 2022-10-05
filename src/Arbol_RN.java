@@ -11,6 +11,7 @@ public class Arbol_RN <Llave extends Comparable<Llave>,Valor>{
 
 
     //XD
+    //XD V2.0
 
     class Nodo{
         private Llave llave;
