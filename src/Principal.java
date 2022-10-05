@@ -15,5 +15,6 @@ public class Principal {
         lista.amplitud();
 
         // XDDXDXD
+        //XD X2
     }
 }
