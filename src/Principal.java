@@ -14,5 +14,6 @@ public class Principal {
         System.out.println("____________");
         lista.amplitud();
         //aloja?
+        //hola
     }
 }
